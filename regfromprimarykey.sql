@@ -139,5 +139,3 @@ SELECT * FROM cities;
 
 
 
-mysql -u root -p
-
